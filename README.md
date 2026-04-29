@@ -37,7 +37,7 @@ Full-stack developer with a strong foundation in Python, JavaScript, and backend
 <h2 align ="center">🌐 LET'S CONNECT:</h2>
 <p align="center"
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style-for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Saitejaaa_1807) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saiteja-akinepelli) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IntrovertAF_03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saitejaakinepelli@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style-for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Saitejaaa_1807) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saiteja-akinepelli)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saitejaakinepelli@gmail.com)
 </p><br>
 <br>
 <hr>
