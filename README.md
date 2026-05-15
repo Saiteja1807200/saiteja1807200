@@ -67,14 +67,6 @@ Full-stack developer with a strong foundation in Python, JavaScript, and backend
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code">
 </p>
 <hr>
-
-<h2 align="center">📊 GitHub Stats:</h2>
-<p align="center"
-![](https://github-readme-stats.vercel.app/api?username=Saiteja1807200&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Saiteja1807200&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saiteja1807200&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact) </p>
-<hr>
-
 <h2 align="center">📈 GitHub Contribution Graph</h2>
 
 <p align="center">
@@ -82,10 +74,10 @@ Full-stack developer with a strong foundation in Python, JavaScript, and backend
 </p>
 <hr>
 
-<!--<h2 align="center">🔝 Top Contributed Repo</h2>
+<h2 align="center">🔝 Top Contributed Repo</h2>
 
 ![](https://github-contributor-stats.vercel.app/api?username=Saiteja1807200&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<hr>-->
+<hr>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
