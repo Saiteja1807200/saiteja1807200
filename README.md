@@ -67,18 +67,13 @@ Full-stack developer with a strong foundation in Python, JavaScript, and backend
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code">
 </p>
 <hr>
+
 <h2 align="center">📈 GitHub Contribution Graph</h2>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saiteja1807200&theme=tokyo-night"/>
 </p>
 <hr>
-
-<h2 align="center">🔝 Top Contributed Repo</h2>
-
-![](https://github-contributor-stats.vercel.app/api?username=Saiteja1807200&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<hr>
-
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
